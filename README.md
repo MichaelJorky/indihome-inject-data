@@ -1,5 +1,5 @@
 # Indihome Inject Data
-Tool Digunakan Hanya Untuk Pengujian di Jaringan Wifi Indihome Saja, dan disarankan digunakan dalam keadaan darurat saja.
+Tool Digunakan Hanya Untuk Pengujian di Jaringan Wifi Indihome Saja, dan disarankan hanya digunakan dalam keadaan darurat saja.
 #
 <b>***** Cara Install Indihome Inject Data *****</b>
 
