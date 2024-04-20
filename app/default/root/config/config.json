@@ -1,1 +1,4 @@
-
+{
+  "core": 10,
+  "kuota_data_limit": 4000000
+}
