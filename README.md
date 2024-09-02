@@ -4,7 +4,7 @@
 
 Tool Digunakan Hanya Untuk Pengujian di Jaringan Wifi Indihome Saja, dan disarankan hanya digunakan dalam keadaan darurat saja.
 #
-<b>***** Cara Install Indihome Inject Data *****</b>
+<b>[ Cara Install Indihome Inject Data ]</b>
 
 1. Download dan instal python3 (minimum python 3.5): https://www.python.org/downloads/
 2. Download dan instal Git: https://git-scm.com/downloads
