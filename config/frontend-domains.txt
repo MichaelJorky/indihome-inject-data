@@ -1,24 +1,23 @@
 # Frontend Domains (Random Selection)
-#
+
 # hostname
 # hostname:80
 # hostname:443
 
-# iflix
-#
+#CLOUDFLARE
+#dcore-dev.telkomsel.com:80
+#dcore-dev.telkomsel.com:443
+#dcore-dev.telkomsel.com:8443
 
 #subsystem.indihome.co.id:80
 #subsystem.indihome.co.id:443
-isolir.indihome.co.id
+#isolir.indihome.co.id
 #myip.indihome.co.id:21
 #myip.indihome.co.id:22
 #myip.indihome.co.id:80
 #myip.indihome.co.id:443
-#myip.indihome.co.id:3306
+myip.indihome.co.id:3306
 #my.indihome.co.id:443
 #api.indihome.co.id
-
 # 106.subnet118-98-95.astinet.telkom.net.id
-#
-
 # 118.98.95.106:443
