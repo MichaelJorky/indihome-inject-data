@@ -19,5 +19,7 @@
 myip.indihome.co.id:3306
 #my.indihome.co.id:443
 #api.indihome.co.id
-# 106.subnet118-98-95.astinet.telkom.net.id
-# 118.98.95.106:443
+#106.subnet118-98-95.astinet.telkom.net.id
+#118.98.95.106:443
+#my.telkomsel.com:80
+#my.telkomsel.com:443
