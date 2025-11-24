@@ -2,11 +2,12 @@
 
 > **Peringatan:** :red_circle: Alat ini dibuat khusus untuk keperluan pendidikan dan penelitian. Penulis tidak bertanggung jawab atas segala bentuk penyalahgunaan atau kerusakan yang mungkin timbul dari penggunaan skrip ini. Harap gunakan dengan bijak dan hanya di lingkungan di mana Anda memiliki izin eksplisit.
 
-Tool Digunakan Hanya Untuk Pengujian di Jaringan Wifi Indihome Saja, dan disarankan hanya digunakan dalam keadaan darurat saja.
+**Indihome Inject Data** adalah tool yang dirancang khusus untuk kebutuhan *testing* pada jaringan WiFi Indihome. Aplikasi ini memungkinkan pengguna melakukan injeksi data secara terkontrol untuk keperluan uji coba, analisis jaringan, atau kebutuhan darurat ketika akses internet mengalami gangguan. Tool ini **tidak ditujukan untuk penggunaan sehari-hari**, tetapi lebih sebagai solusi teknis bagi pengguna yang memahami risiko dan ingin melakukan pemeriksaan koneksi secara mendalam.
 
-~ (v1.0.0.1) Minggu 18 Februari 2024 - First Release Indihome Inject Data
+Sebagai versi *stable*, rilis ini membawa peningkatan pada performa sistem, stabilitas API Windows, serta kompatibilitas yang lebih baik dengan proses multi-core. Indihome Inject Data memungkinkan pengguna memilih jumlah core, menentukan paket data untuk reset (mulai dari 4MB hingga 2GB), serta menjalankan proses injeksi melalui engine berbasis Python yang telah dioptimalkan.
 
-~ (v1.0.0.2) Senin 16 Desember 2024 - Perbaikan Bug API Windows
+Aplikasi ini sangat bermanfaat untuk aktivitas seperti *testing download*, streaming file berukuran besar, hingga membuka situs yang diblokir atau terkena Internet Positif. Untuk menjaga keamanan, disarankan agar tool hanya digunakan pada jaringan milik sendiri dan tidak digunakan untuk login ke akun pribadi seperti Facebook, Gmail, YouTube, atau akun media sosial lainnya.
+
 #
 <b>[ Cara Install Indihome Inject Data ]</b>
 
